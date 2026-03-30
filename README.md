@@ -2,7 +2,7 @@
 
 [<img alt="rubygems.org" src="https://img.shields.io/gem/v/vidload?logoColor=E9573F&style=for-the-badge&color=E9573F&logo=ruby" height="20">](https://rubygems.org/gems/vidload)
 [<img alt="rubygems.org" src="https://img.shields.io/gem/dt/vidload?logoColor=E9573F&style=for-the-badge&color=152673" height="20">](https://rubygems.org/gems/vidload)
-[<img alt="documentation" src="https://img.shields.io/badge/Documentation-blue?style=for-the-badge&logo=ruby" height="20">](https://docs.rs/gitignore-template-generator/latest/gitignore_template_generator)
+[<img alt="documentation" src="https://img.shields.io/badge/Documentation-blue?style=for-the-badge&logo=ruby" height="20">](https://www.rubydoc.info/gems/vidload/0.6.0)
 
 Current version: [0.6.1](/CHANGELOG.md#061---27032026)
 
