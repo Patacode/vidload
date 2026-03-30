@@ -1,0 +1,59 @@
+# Todo
+
+- [x] add binary cli using thor gem
+- [x] setup proper ci/cd to deploy gem locally and on rubygems.org
+- [x] implement loading spinner for loading messages
+- [x] implement progress bar with segment infos instead of full ffmpeg output
+- [x] add cli arg to output .mp4 video into some custom dir
+- [x] implement cli arg to provide video author name
+- [x] implement way to auto-name and auto-author a video if no name/author was given
+- [x] fix bug infinite download hang
+- [x] add changelog mechanism
+- [x] add `[unreleased]` section to CHANGELOG.md when making new release
+- [x] create task to manage preparation of changelogs for next release
+- [x] create task to release dryrun
+- [x] create task to release
+- [x] add git push at the end of release script
+- [x] setup rake
+- [x] add a Gemfile
+- [x] add task to manage TODO.md commit
+- [x] fix exit status bug in release scripts
+- [x] add task to release gem locally for dev purpose
+- [x] fix typo in git commit msg cmd in todo_task rake task
+- [ ] add unit tests and integration tests
+- [ ] add test coverage tools
+- [ ] add mutation coverage tools
+- [ ] resolve all gem build warnings
+- [x] add possibility to create Vidload::Mp2t::Api::Downloader from thor options
+- [ ] add documentation
+- [ ] prettify calling args details output
+- [x] add code formatter
+- [ ] add core linter
+- [x] add rake task for formatting
+- [ ] add rake task for linting
+- [x] add support to download multiple videos
+- [x] add support to group videos by author in separate directories
+- [x] add option to run in non-headless
+- [ ] provide useful default value for non-required args
+- [x] implement mp4 downloader
+- [x] remove usage of terminal-specific attributes in mp4 downloader
+- [x] fix output_dir option in mp2t downloader
+- [x] fix loading messages in mp4 downloader
+- [x] add rake task to save rubocop changes
+- [ ] shorten output of token replacement script
+- [ ] create TUI to run rake tasks with mouse click in terminal
+- [x] remove all non-alphabetic chars except spaces from auto-naming feature of mp2t downloader
+- [ ] adjust default value logic around video_name arg
+- [ ] add loading animation to loading messages without animation
+- [ ] fix mp2t segment output display issue
+- [x] rename non-headless flag to headless
+- [x] split downloader CLIs into separate class
+- [ ] implement check to verify if video already downloaded
+- [x] improve rake tasks structure
+- [x] fix case conversion issue
+- [ ] implement site map/index
+- [ ] replace all bash scripts with ruby scripts
+- [ ] replace scripts by simple rake tasks where applicable
+- [ ] define rake task to normalize dir and filenames
+- [ ] convert to lowercase before dash-casing
+- [x] create new custom downloader to ease creation of any other custom downloader
