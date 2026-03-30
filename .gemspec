@@ -16,6 +16,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'playwright-ruby-client', '~> 1.58'
   spec.add_dependency 'thor', '~> 1.5'
   spec.add_dependency 'tty-spinner', '~> 0.9'
+  spec.add_development_dependency 'gem-release', '~> 2.2'
   spec.add_development_dependency 'rake', '~> 13.3'
   spec.add_development_dependency 'rubocop', '~> 1.85'
 end
