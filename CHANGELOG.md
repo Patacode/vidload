@@ -9,14 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Brand new vidload downloaders structure with modules & structs per website
-  instead of per protocol
-
-## [0.6.1] - 27/03/2026
-
-### Changed
-
 - Cli base class now split into vidload types
+- Migration to new github repo
 
 ## [0.6.0] - 24/03/2026
 
